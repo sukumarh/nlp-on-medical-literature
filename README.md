@@ -27,7 +27,7 @@ Our next goal was to then create not word embeddings, but phrase embeddings. Our
 
 #### REFERENCES
 1. [Word2Vec For Phrases — Learning Embeddings For More Than One Word](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
-2. Nye B, Jessy Li J, Patel R, et al. A Corpus with Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature. Proc Conf Assoc Comput Linguist Meet. 2018;2018:197‐207.
+2. [Nye B, Jessy Li J, Patel R, et al. A Corpus with Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature. Proc Conf Assoc Comput Linguist Meet. 2018;2018:197‐207.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6174533/)
 3. [Clinical Data Science](https://clinicaldatascience.mountsinai.org/)
 
 
